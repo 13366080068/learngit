@@ -1,3 +1,3 @@
 learngit
 Creating a new branch is quick & simple.
-Yo~
+Yo~Check it out~
